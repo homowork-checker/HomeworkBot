@@ -1,3 +1,3 @@
-TOKEN='7846152188:AAHR6Q42lxtUXmY25lr60NI67814I3Gvzv0'
+TOKEN='7846152188:AAGZtQLIaEeWbPaYFn_AdzB2Oan-FoM6xR0'
 adminDB = 7999211529
-DB_URL = 'postgresql://hmbot_porsgres_user:Pclz9OAPWdwFl2IBctuABsGtzB3MIPrR@dpg-cvmpp4nfte5s739b76p0-a.oregon-postgres.render.com/hmbot_porsgres'
+DB_URL = 'postgresql://homework_postgres_user:IQhOjF1IBsc0eiDm4lxSqXZKYzMIn9xe@dpg-cvq4383e5dus73f141dg-a.oregon-postgres.render.com/homework_postgres'
